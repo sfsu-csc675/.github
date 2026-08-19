@@ -5,7 +5,7 @@
 ![Database](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Education](https://img.shields.io/badge/Environment-Academic-8b5cf6)
 
-Welcome to the GitHub organization for CSC675/775 · Introduction to Database Systems at San Francisco State University.
+Welcome to the GitHub organization for CSC675/775 Sections 02 and 03 · Introduction to Database Systems at San Francisco State University.
 
 This organization supports the course's engineering environment and provides enrolled students with access to the resources and repositories used throughout the semester.
 
