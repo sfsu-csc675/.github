@@ -40,9 +40,9 @@ Students receive organization access using the GitHub account registered through
 
 If you are currently enrolled in CSC675/775 and cannot access the course resources, please verify that:
 
-1. You submitted the correct GitHub username through Canvas.
-2. You accepted the GitHub organization invitation.
-3. You are signed in to GitHub using the account you registered for the course.
+- You submitted the correct GitHub username through Canvas. 
+- You accepted the GitHub organization invitation.
+- You are signed in to GitHub using the account you registered for the course.
 
 For course policies, announcements, grades, and access information, please use the official Canvas course.
 
